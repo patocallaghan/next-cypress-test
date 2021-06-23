@@ -8,12 +8,12 @@ function About() {
         <ul>
           <li>
             <Link href="/">
-              <a>Home</a>
+              <a data-testid="home">Home</a>
             </Link>
           </li>
           <li>
             <Link href="/about">
-              <a>About Us</a>
+              <a data-testid="about">About Us</a>
             </Link>
           </li>
         </ul>
